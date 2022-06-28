@@ -1,1 +1,11 @@
+.idea/
+.iws
+workspace.xml
+tasks.xml
+
+.DS_Store
+
+# I don't want to show my secrets
+/config/secrets.yml
+.env
 .idea
